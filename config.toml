@@ -1,6 +1,7 @@
 # The URL the site will be built for
-base_url = "https://ababa.com"
-
+base_url = "https://bridges369.netlify.app"
+description = "Meu blog Maravilhoso"
+title = "Meu Blog"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 
