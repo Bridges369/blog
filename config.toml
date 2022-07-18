@@ -39,7 +39,7 @@ image = "https://via.placeholder.com/200"
 image_alt = "Placeholder text describing the index's image."
 
 [extra.default_author]
-name = "John Doe"
+name = "Lucas Pontes"
 avatar = "https://via.placeholder.com/200"
 avatar_alt = "Placeholder text describing the default author's avatar."
 
